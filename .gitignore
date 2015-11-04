@@ -1,0 +1,9 @@
+# Igonre List
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+target/
+.settings/
